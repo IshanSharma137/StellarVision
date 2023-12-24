@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MilkyWay/Scenes/menu.unity
+    guid: 4656d3b063a12f340a0d785bda8f84a6
+  - enabled: 1
+    path: Assets/MilkyWay/Scenes/galaxy1.unity
+    guid: e310d0f0b42981c4cbbe6e882b53ba34
+  - enabled: 1
+    path: Assets/MilkyWay/Scenes/Nebula.unity
+    guid: f4cad645b7a55074594e0b5b7367ad04
+  - enabled: 1
+    path: Assets/MilkyWay/Scenes/Default.unity
+    guid: 0e9b9110c46396c498b2b4760729a961
+  - enabled: 1
+    path: Assets/MilkyWay/Scenes/JupiterScene.unity
+    guid: ad4bb6a3d91014a4e9da0d2e3ea9188d
+  - enabled: 1
+    path: Assets/MilkyWay/Scenes/NeptuneScene.unity
+    guid: d84263c715a91ba45b0abda7b94e6456
+  m_configObjects: {}
